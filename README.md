@@ -3,7 +3,7 @@ A Blender python file for rendering animations as sprites from different angles
 
 ##
 
-Rotates a specified object to different angles and renders an animation from each as a series of images.
+Rotates a user-specified camera object to different angles and renders an animation from each as a series of images.
 
 Just define render settings as normal, copy/paste the script into blender, and run it.
 
